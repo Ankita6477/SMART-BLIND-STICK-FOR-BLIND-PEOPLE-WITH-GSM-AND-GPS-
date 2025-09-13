@@ -1,4 +1,4 @@
-List of Components
+##List of Components
 
 1. Arduino Mini - 1
 2. Battery 4V - 2
